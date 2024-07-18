@@ -9,7 +9,7 @@
         <!-- You can delete the links only if you've purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-        Designed by <a href="https://bootstrapmade.com/">Muhamad Alfan</a>
+        Designed by <a href="https://github.com/alfaaannz/project2-alfan">Muhamad Alfan</a>
       </div>
     </div>
 
