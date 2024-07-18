@@ -10,7 +10,7 @@
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <h2>Muhamad Alfan</h2>
-      <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer">Designer</span><span
+      <p>I'm <span class="typed" data-typed-items="Qori, Developer, Freelancer"></span><span
           class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span
           class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
     </div>
